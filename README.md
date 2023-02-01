@@ -16,10 +16,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at Danang University of Science & Technology
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to apply to React Native/Flutter internship
-- 💬 Ask me about React Native, Flutter
+- 🔭 I’m currently working at Enouvo IT Solutions
+- 💬 Ask me about Flutter
 - ⚡ Fun fact: Soy adicto a las novelas.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -44,14 +42,13 @@
 <br>
 <br>
   <br>
-  
-[![LDT's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lokishengoku&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![LDT's github stats](https://github-readme-stats.vercel.app/api?username=lokishengoku&show_icons=true&theme=tokyonight) | ![LDT GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lokishengoku&theme=tokyonight)                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokishengoku&theme=tokyonight)               | ![Github Stars](https://github-readme-stats.vercel.app/api?username=lokishengoku&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+    
+<div align="center">
+<a href="http://www.github.com/lokishengoku"><img width="85%" src="https://github-readme-activity-graph.cyclic.app/graph?username=lokishengoku&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="LDT GitHub Activity Graph"/></a>
+<a href="http://www.github.com/lokishengoku"><img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokishengoku&theme=tokyonight" alt="LDT GitHub Streak"/></a>
+<a href="http://www.github.com/lokishengoku"><img alt="LDT Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=lokishengoku&show_icons=true&theme=tokyonight"/></a>
+<a href="http://www.github.com/lokishengoku"/><img alt="LDT Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokishengoku&theme=tokyonight&layout=compact" width = "40%"/></a>
+</div>
 
 <br>
 
@@ -59,4 +56,4 @@
 
 Credits: [LDT](https://github.com/lokishengoku)
 
-Last Edited on: 1 Dec 2021
+Last Edited on: 1 Jan 2023
